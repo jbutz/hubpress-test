@@ -3,16 +3,16 @@
     "username": "jbutz",
     "repositoryName": "hubpress-test",
     "branch": "gh-pages",
-    "cname": ""
+    "cname": "www.jasonbutz.info"
   },
   "theme": {
     "name": "casper"
   },
   "urls": {
-    "site": "https://jbutz.github.io/hubpress-test",
+    "site": "https://www.jasonbutz.info/hubpress-test",
     "hubpress": "https://www.jasonbutz.info/hubpress-test",
-    "theme": "//jbutz.github.io/hubpress-test/themes/casper",
-    "images": "https://jbutz.github.io/hubpress-test/images"
+    "theme": "https://www.jasonbutz.info/hubpress-test/themes/casper",
+    "images": "https://www.jasonbutz.info/hubpress-test/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",

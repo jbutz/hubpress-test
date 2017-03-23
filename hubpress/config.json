@@ -2,8 +2,7 @@
   "meta": {
     "username": "jbutz",
     "repositoryName": "hubpress-test",
-    "branch": "gh-pages",
-    "cname": "www.jasonbutz.info"
+    "branch": "gh-pages"
   },
   "theme": {
     "name": "casper"

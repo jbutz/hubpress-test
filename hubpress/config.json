@@ -5,6 +5,22 @@
     "branch": "gh-pages"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://jbutz.github.io/hubpress-test",
+    "hubpress": "https://www.jasonbutz.info/hubpress-test",
+    "theme": "//jbutz.github.io/hubpress-test/themes/casper",
+    "images": "https://jbutz.github.io/hubpress-test/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
   }
 }

@@ -11,8 +11,8 @@
   "urls": {
     "site": "https://jbutz.github.io/hubpress-test",
     "hubpress": "https://www.jasonbutz.info/hubpress-test",
-    "theme": "https://www.jasonbutz.info/hubpress-test/themes/casper",
-    "images": "https://www.jasonbutz.info/hubpress-test/images"
+    "theme": "//jbutz.github.io/hubpress-test/themes/casper",
+    "images": "https://jbutz.github.io/hubpress-test/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",

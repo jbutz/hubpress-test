@@ -10,7 +10,7 @@
   "urls": {
     "site": "https://www.jasonbutz.info/hubpress-test",
     "hubpress": "https://www.jasonbutz.info/hubpress-test",
-    "theme": "//www.jasonbutz.info/hubpress-test/themes/casper",
+    "theme": "https://www.jasonbutz.info/hubpress-test/themes/casper",
     "images": "https://www.jasonbutz.info/hubpress-test/images"
   },
   "initialisationConfigComponent": {
